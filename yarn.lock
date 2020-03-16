@@ -1545,7 +1545,7 @@ express-hbs@1.1.1:
   resolved "https://registry.yarnpkg.com/express-hbs/-/express-hbs-1.1.1.tgz#0a181c01a399c0fe148ef4a006c59afd21c24f20"
   integrity sha512-nFBXq8SNb58wospQeRsh3FZL+srv6KMVkCKJnUGB3Gm7pXUf4DzaIQ0zUb+qQRCFeAVQHaF7X4vNfIea00FiGA==
   dependencies:
-    handlebars "4.1.2"
+    handlebars "4.3.0"
     js-beautify "1.6.8"
     lodash "4.17.11"
     readdirp "2.1.0"
@@ -2257,8 +2257,8 @@ gulplog@^1.0.0:
   dependencies:
     glogg "^1.0.0"
 
-handlebars@4.1.2:
-  version "4.1.2"
+handlebars@4.3.0:
+  version "4.3.0"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.1.2.tgz#b6b37c1ced0306b221e094fc7aca3ec23b131b67"
   integrity sha512-nvfrjqvt9xQ8Z/w0ijewdD/vvWDTOweBUm96NTr66Wfvo1mJenBLwcYmPs3TIBP5ruzYGD7Hx/DaM9RmhroGPw==
   dependencies:
